@@ -9,9 +9,17 @@ int add(int, int);
     cout << "Sum = " << sum;
     return 0;
 }
+
 int add(int a, int b)
 {
     int add;
     add = a + b;
     return add;
+}
+
+int multiplication(a,b)
+{
+	int multiply;
+	multiply=a*b;
+	return multiply;
 }
