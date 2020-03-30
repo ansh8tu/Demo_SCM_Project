@@ -1,1 +1,2 @@
-This is an Introduction to the SCM Project.
+Merge Conflict: pull request
+This is an Introduction to the Source Code Management Project.
