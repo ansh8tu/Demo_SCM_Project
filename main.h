@@ -5,17 +5,17 @@ int add(int x, int y);
 int multiply(int x, int y);
 int main()
 {
-    int number_1; 
-    int number_2; 
+    int num1; 
+    int num2; 
     int sum_of_numbers;
     int product_of_numbers;
    
     cout << "Enter the first number" << endl;
-    cin>>number_1;
+    cin>>num1;
     cout << "Enter the second number" << endl;
-    cin>>number_2;
-    sum_of_numbers=add(number_1, number_2);
-    product_of_numbers=multiply(number_1, number_2);
+    cin>>num2;
+    sum_of_numbers=add(num1, num2);
+    product_of_numbers=multiply(num1, num2);
     cout<<"sum of two numbers "<<sum_of_numbers<<endl;
     cout<<"product of two numbers"<<product_of_numbers<<end1;
     return 0;
